@@ -1,0 +1,30 @@
+table{
+  text-align: left;
+}
+
+tr.dis1{
+  width:50%;
+  background-color: rgb(84,31,20);
+  color: #938172;
+}
+
+tr.dis{
+  width:50%;
+  background-color: #CC9E61;
+}
+
+th{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* Color Palette adapted from: http://www.colourlovers.com/web/palettes*/
+body{
+  background-color: #626266;
+  color: #020304;
+}
+
+td:hover{
+  background-color: #020304;
+  color: yellow;
+}
